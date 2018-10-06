@@ -311,4 +311,16 @@
  (yard-mode . [(20170817 1237) nil "Minor mode for Ruby YARD comments" tar])
  (yasnippet . [(20180916 2115) ((cl-lib (0 5))) "Yet another snippet extension for Emacs." tar])
  (zoutline . [(20180314 1759) nil "Simple outline library." tar])
+
+ (let-alist . [(1 0 5) ((emacs (24 1))) "Easily letlist by their names" tar])
+
+ (nlinum . [(1 8 1) nil "Show line numbers in the margin" tar])
+ (nlinum-hl . [(20170614 48) ((emacs (24 4)) (nlinum (1 7)) (cl-lib (0 5))) "heal nlinum's line numbers" tar])
+ (nlinum-relative . [(20160526 708) ((emacs (24 4)) (nlinum (1 5))) "Relative line number with nlinum" tar])
+
+ (seq . [(2 20) nil "Sequence manipulation functions" tar])
+
+ (auth-source-pass . [(20180529 1357) ((emacs (25))) "Integrate authstore" tar])
+
+ (less-css-mode . [(20161001 453) nil "Major mode for editing LESS CSS files (lesscss.org)" tar])
 )
