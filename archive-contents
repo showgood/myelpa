@@ -313,14 +313,14 @@
  (zoutline . [(20180314 1759) nil "Simple outline library." tar])
 
  (let-alist . [(1 0 5) ((emacs (24 1))) "Easily letlist by their names" tar])
-
  (nlinum . [(1 8 1) nil "Show line numbers in the margin" tar])
  (nlinum-hl . [(20170614 48) ((emacs (24 4)) (nlinum (1 7)) (cl-lib (0 5))) "heal nlinum's line numbers" tar])
  (nlinum-relative . [(20160526 708) ((emacs (24 4)) (nlinum (1 5))) "Relative line number with nlinum" tar])
-
  (seq . [(2 20) nil "Sequence manipulation functions" tar])
-
  (auth-source-pass . [(20180529 1357) ((emacs (25))) "Integrate authstore" tar])
-
  (less-css-mode . [(20161001 453) nil "Major mode for editing LESS CSS files (lesscss.org)" tar])
+ 
+ (treemacs . [(20180927 1224) ((emacs (25 2)) (cl-lib (0 5)) (dash (2 11 0)) (s (1 10 0)) (f (0 11 0)) (ace-window (0 9 0)) (pfuture (1 2)) (hydra (0 13 2)) (ht (2 2))) "A tree style file explorer package" tar])
+ (treemacs-evil . [(20180803 1017) ((evil (1 2 12)) (treemacs (0))) "Evil mode integration for treemacs" tar])
+ (treemacs-projectile . [(20180614 1721) ((projectile (0 14 0)) (treemacs (0))) "Projectile integration for treemacs" tar])
 )
