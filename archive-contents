@@ -323,4 +323,5 @@
  (treemacs . [(20180927 1224) ((emacs (25 2)) (cl-lib (0 5)) (dash (2 11 0)) (s (1 10 0)) (f (0 11 0)) (ace-window (0 9 0)) (pfuture (1 2)) (hydra (0 13 2)) (ht (2 2))) "A tree style file explorer package" tar])
  (treemacs-evil . [(20180803 1017) ((evil (1 2 12)) (treemacs (0))) "Evil mode integration for treemacs" tar])
  (treemacs-projectile . [(20180614 1721) ((projectile (0 14 0)) (treemacs (0))) "Projectile integration for treemacs" tar])
+  (pfuture . [(20180922 1315) ((emacs (25 2))) "a simple wrapper around asynchronous processes" tar])
 )
