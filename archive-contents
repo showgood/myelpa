@@ -328,4 +328,5 @@
  (poet-theme . [(20180924 329) nil "A theme for prose." tar])
  (powerthesaurus . [(20180719 908) ((emacs (24)) (request (0 3 0)) (s (1 12 0))) "Powerthesaurus integration" tar])
  (define-word . [(20180706 2029) ((emacs (24 3))) "display the definition of word at point." tar])
+ (company-box . [(20180607 1545) ((emacs (26 0 91)) (dash (2 13)) (dash-functional (1 2 0)) (company (0 9 6))) "Company front-end with icons" tar])
 )
