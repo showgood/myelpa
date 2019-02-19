@@ -355,4 +355,8 @@
  (ob-mongo . [(20170720 1919) nil "Execute mongodb queries within org-mode blocks." tar])
  (google-translate . [(20190206 1229) nil "Emacs interface to Google Translate." tar])
  (evil-indent-plus . [(20151109 1906) ((evil (0)) (cl-lib (0 5))) "Evil textobjects based on indentation" tar])
+ (let-alist . [(1 0 5) nil "Easily let-bind values of an assoc-list by their names" tar])
+ (nlinum . [(1 8 1) nil "Show line numbers in the margin" tar])
+ (nlinum-relative . [(20160526 708) ( (nlinum (1 5))) "Relative line number with nlinum" tar])
+ (nlinum-hl . [(20170614 708) ((nlinum (1 7)) (cl-lib (0 5))) "heal nlinums line numbers" tar])
 )
