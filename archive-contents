@@ -359,4 +359,6 @@
  (nlinum . [(1 8 1) nil "Show line numbers in the margin" tar])
  (nlinum-relative . [(20160526 708) ( (nlinum (1 5))) "Relative line number with nlinum" tar])
  (nlinum-hl . [(20170614 48) ((nlinum (1 7)) (cl-lib (0 5))) "heal nlinums line numbers" tar])
+ (org . [(20190304) ( ) "Outline-based notes management and organizer" tar])
+ (org-plus-contrib . [(20190304) ( ) "Outline-based notes management and organizer" tar])
 )
