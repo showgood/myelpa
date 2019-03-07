@@ -361,4 +361,8 @@
  (nlinum-hl . [(20170614 48) ((nlinum (1 7)) (cl-lib (0 5))) "heal nlinums line numbers" tar])
  (org . [(20190304) ( ) "Outline-based notes management and organizer" tar])
  (org-plus-contrib . [(20190304) ( ) "Outline-based notes management and organizer" tar])
+ (ob-async . [(20190220 710) ( (async (1 9)) (org (9 0 1)) (dash (2 14 1))) "Asynchronous org-babel src block execution" tar])
+ (doom-modeline . [(20190304 1702) ((all-the-icons (1 0 0)) (shrink-path (0 2 0)) (eldoc-eval (0 1)) (dash (2 11 0))) "A minimal and modern mode-line" tar])
+ (npm-mode . [(20180720 1701) ((emacs (24 1))) "minor mode for working with npm projects" tar])
+ (forge . [(20190226 1944) ((emacs (25 1)) (closql (1 0 0)) (dash (2 14 1)) (emacsql-sqlite (3 0 0)) (ghub (3 0 0)) (graphql (0 1 1)) (let-alist (1 0 5)) (magit (2 90 1)) (markdown-mode (2 3)) (transient (0 1 0))) "Access Git forges from Magit." tar])
 )
